@@ -1,0 +1,33 @@
+body{
+    background-image: url('Airplen.png');
+}
+.heading{
+    font-size: 23px;
+    width: 98%;
+    margin-top: 5px;
+    box-shadow: 5px 5px 5px grey;
+}
+.note{
+    font-size: 15px;
+    color: orangered;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 10px;
+    left: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: lightskyblue;
+    background-color: green;
+    border-radius: 3px;
+    padding-left: 6px;
+    padding-right: 6px;
+    box-shadow: 5px 5px 5px grey;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+video{
+    margin-top: 100px;
+}
